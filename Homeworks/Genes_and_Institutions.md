@@ -1,4 +1,9 @@
-# In-class homework 1: Genes and Institutions.
+## In-class homework 1: Genes and Institutions.
+
+##### Your Name
+
+___________
+
 
 ### Consider these points
 1. Both scholars are highly recognized, and widely cited, and pretty much, super respected within the academic community. Robinson thinks that institutions shape people’s behavior. McDermott thinks that genes shape people’s behavior.
