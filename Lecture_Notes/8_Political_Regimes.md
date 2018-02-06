@@ -69,3 +69,18 @@ The polity is also a "middle way": the rich don't know how to follow orders, but
 2. **Executive power-sharing in broad coalition cabinets**. The Belgian constitution has a formal requirement that the executive include representatives of the large linguistic groups. Belgium has a parliamentary form of government. Belgian cabinets are often short-lived attests to their relatively weak position. [From another source: Belgium chose new prime minister after a world record of 19 months without government in 2011].
 3. **Multiparty system**. Both Switzerland and Belgium have multiparty systems; no party has the majority. Lijphart explains the reasons for why these two countries have a multiparty system: "The first is that the two countries are plural societies, divided along several lines of cleavage. This multiplicity of cleavages is reflected in the multidimensional character of their party systems." The cleavages are religion, socioeconomic and language. "The second explanation for the emergence of multiparty systems in Switzerland and Belgium is that their proportional electoral systems."
 4. **Proportional representation**. The basic aim of proportional representation (PR) is to divide the parliamentary seats among the parties in proportion to the votes they receive.
+
+## U.S.
+1. The executive (President and Vice President) are Republican. *Is not parliamentary or semi presidential*.
+2. Cabinet is mostly Republican.
+3. Two-party system. **not too representative**.
+4. Majoritarian (non-proportional) electoral system. **Would a PR system work in the US?**
+5. Social partnership between the interests of capital and labour, involving collective bargaining between representatives of employers and of labour mediated by the government at the national level. In contrast to a market economy which operates through competition: Pluralism (interests are free to compete for influence), usually via **lobbying**.
+6. Unitary and centralized government. No, the U.S. is federal.
+7. Concentration of legislative power in a unicameral legislature. No, it has the Senate.
+8. Constitutional flexibility? Article Five of the United States Constitution describes the process whereby the Constitution may be altered. Altering the Constitution consists of proposing an amendment or amendments and subsequent ratification. Amendments may be proposed either by the Congress (with a two-thirds vote in both the House of Representatives and the Senate) or by a convention of states called for by two-thirds of the state legislatures. To become part of the Constitution, an amendment must be ratified by either—as determined by Congress—the legislatures of three-quarters of the states or state ratifying conventions in three-quarters of the states. The vote of each state (to either ratify or reject a proposed amendment) carries equal weight, regardless of a state's population or length of time in the Union.
+9. A central bank controlled by the executive. Not, it's independent. They control monetary policy, and independent banks are widely considered to be better at controlling inflation and maintaining price stability than banks that are dependent on the executive.
+  A. However, in "Independent but Not Indifferent: Partisan Bias in Monetary Policy at the Fed:"
+    A. The Fed acts in ways that promote the (re)election of Republican presidential candidates.
+    B. The Fed’s main policy tool, the Federal Funds Rate (FFR), declines as elections approach when Republicans control the White House, but rises before elections when the sitting President is a Democrat.
+    C. The Federal Reserve cares about inflation, but only when the President is a Democrat.
