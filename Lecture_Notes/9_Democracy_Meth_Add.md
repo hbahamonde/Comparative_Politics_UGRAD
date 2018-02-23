@@ -1,0 +1,37 @@
+# Concepts, A Methodological Addendum
+====================
+
+## Competitive Authoritarianism: Hybrid Regimes After the Cold War (book)
+
+- "Such characterizations are misleading. The assumption that hybrid regimes
+are (or should be) moving in a democratic direction lacks empirical foundation. Hybrid regimes followed diverse trajectories during the post–Cold War period. Although some of them democratized (e.g., Ghana, Mexico, and Slovakia), most did not. Many regimes either remained stable (e.g., Malaysia and Tanzania) or became increasingly authoritarian (e.g., Belarus and Russia). In other cases, autocratic governments fell but were succeeded by new authoritarians (e.g., Georgia, Madagascar, and Zambia). Indeed, some regimes experienced two or more transitions without democratizing.15 As of 2010, more than a dozen competitive authoritarian regimes had persisted for 15 years or more.16 Rather than “partial,” “incomplete,” or “unconsolidated” democracies, these cases should be conceptualized for what they are: a distinct, nondemocratic regime type."
+
+- "Our central argument, which is elaborated in Chapter 2, focuses on two main factors: ties to the West and the strength of governing-party and state organizations. Where linkage to the West was high, competitive authoritarian regimes democratized. Where linkage was low, regime outcomes hinged on incumbents’ organizational power. Where state and governing party structures were well organized and cohesive, regimes remained stable and authoritarian; where they were underdeveloped or lacked cohesion, regimes were unstable, although they rarely democratized."
+
+- "Competitive authoritarian regimes are civilian regimes in which formal democratic institutions exist and are widely viewed as the primary means of gaining power, but in which incumbents’ abuse of the state places them at a significant advantage vis-`a-vis their opponents. Such regimes are competitive in that opposition parties use democratic institutions to contest seriously for power, but they are not democratic because the playing field is heavily skewed in favor of incumbents. Competition is thus real but unfair."
+
+- As Collier and Levitsky warned, such an “excessive proliferation of new terms and concepts” is likely to result in “conceptual confusion.”
+- "We contend that competitive authoritarianism is a new phenomenon and that no existing term adequately captures it."
+
+"Competitive authoritarianism is only one of several hybrid regime types. Others include (1) constitutional oligarchies or exclusive republics, which possess the basic features of democracy but deny suffrage to a major segment of the adult population (e.g., Estonia and Latvia in the early 1990s)74;(2) tutelary regimes, in which elections are competitive but the power of elected governments is constrained by nonelected religious (e.g., Iran), military (e.g., Guatemala and Pakistan), or monarchic (e.g., Nepal in the 1990s) authorities; and (3) restricted or semi-competitive democracies, in which elections are free but a major party is banned (e.g., Argentina in 1957–1966 and Turkey in the 1990s). The differences among these regimes – and between them and competitive authoritarianism – are obscured by categories such as semi-democratic or partly free."
+
+## Giovanni Sartori. Concept Misformation in Comparative Politics
+
+- Expansion on politics (the world is becoming, more and more politicized more participation, etc.: There were about 80 States in 1946; it is no wild guess that we may shortly arrive at 150...the pre-1950 vocabulary of politics was not devised for world-wide, cross-area traveling."
+- "How far, and how, can we travel with the help of the available vocabulary of politics?"
+- "the net result of conceptual straining is that our gains in extensional coverage tend to be matched by losses in connotative precision. It appears that we can cover more---in traveling terms---only by saying less, and by saying less in a far less precise manner."
+- We should compare using all cases (because to compare means, "to control").
+- Extension v. Intension of a term: " The extension of a word is the class of things to which the word applies; the intension of a word is the collection of properties which determine the things to which the word applies."
+- "we make a concept more abstract and more general by lessening its properties or attributes. Conversely, a concept is specified by the addition of qualifications, i.e., by augmenting its attributes or properties."
+- Negative identification: "concepts defined by negation, by saying what they are not." // Przeworski famously characterized democracy as a “system in which parties lose elections.” (1991: 10)
+- "Conceptual Stretching, which results, in turn, from incorrect ladder climbing: the clumsy attempt to arrive at "traveling universals" at the expense of precision, instead of at the expense of connotation (i.e. by reducing the number of qualifying attributes)."
+- "conceptual traveling (the application of concepts to new cases) and conceptual stretching (the distortion that occurs when a concept does not fit the new cases)" From Collier1993.
+- "the classical understanding of categories helps address the problem of conceptual stretching. When scholars take a category developed for one set of cases and extend it to additional cases, the new cases may be sufficiently different that the category is no longer appropriate in its original form. If this problem arises, they may adapt the category by climbing the ladder of generality, thereby obeying the law of inverse variation. As they increase the extension, they reduce the intension to the degree necessary to fit new contexts."
+- "Sartori's proposal for avoiding conceptual stretching is to move up and down the ladder of generality to concepts that have fewer attributes and correspondingly fit a broader range of cases."
+
+# Collier and Levitsky: Democracy with Adjectives: Conceptual Innovation in Comparative Politics
+
+- democracy with adjectives: looks like an alternative to Sartori's strategy of going up the ladder of abstraction. "Limited-suffrage democracy" and "tutelary democracy.": "Diminished subtypes, then, are useful means to avoid conceptual stretching in cases that are less than fully democratic. They also provide differentiation by creating new analytic categories."
+- procedural definitions, rather than (democratic) outcomes. // These definitions are minimal, i.e. they focus on the smallest possible number of attributes.
+- "Sartori's strategies of (1) moving down the ladder of generality to classical subtypes of democracy and (2) moving up the ladder to classical subtypes of regime can usefully serve either to increase differentiation or to avoid conceptual stretching, they they cannot do both simultaneously. These two goals can be achieved simultaneously, however, by (3) creating diminished subtypes, (4) precising the definition of democracy by adding defining attributes, and (5a) shifting the overarching concept as a means of lowering the standard. By contrast (5b), shifting the overarching concept to raise the standard for democracy does not serve to avoid conceptual stretching vis-a-vis the concept of a democratic regime, but it does introduce new differentiation."
+- "Diminished subtypes are useful for characterizing hybrid regimes, but they raise the issue of whether these regimes should in fact be treated as subtypes of democracy, rather than subtypes of authoritarianism or some other concept."
