@@ -180,7 +180,3 @@ TSWLatexianTemp*
 *~[0-9]*
 
 \.DS_Store
-
-*.key
-
-Grades_Attendance.numbers
