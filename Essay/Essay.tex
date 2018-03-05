@@ -1,0 +1,124 @@
+%This is a LaTeX template for homework assignments
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{import} % To import email.
+
+
+
+\usepackage{hyperref}
+\usepackage{xcolor,color}
+\usepackage{import} % To import email.
+
+
+\usepackage{geometry}
+
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+colorlinks = true,
+urlcolor = brown,
+pdfpagemode = UseNone
+}
+
+\geometry{
+  left=1.0in,
+  top=1.0in,
+  top=1.0in,
+  bottom=1.0in
+}
+
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% email input begin
+\newread\fid
+\newcommand{\readfile}[1]% #1 = filename
+{\bgroup
+  \endlinechar=-1
+  \openin\fid=#1
+  \read\fid to\filetext
+  \loop\ifx\empty\filetext\relax% skip over comments
+    \read\fid to\filetext
+  \repeat
+  \closein\fid
+  \global\let\filetext=\filetext
+\egroup}
+\readfile{/Users/hectorbahamonde/RU/Bibliografia_PoliSci/email.txt}
+% email input end
+
+
+
+
+
+\begin{document}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.5em}
+ 
+{\centering\section*{{\bf Take Home Essay}\\{\bf POLC-2300 ``Introduction to Comparative Politics''}}}
+
+
+{\vspace{.5cm}\raggedright \bf Professor}: Hector Bahamonde.\\
+{\bf Class meetings}: \texttt{MWF} 8:00-8:50.\\
+{\bf Location}: Stanley Thomas Hall 302.
+
+
+\subsection*{General Instructions}
+
+This essay is worth 25\% of your grade. This essay has a total of 100 points. This essay covers material from the entire semester, up to {\bf  March 23}. Questions have been drawn from the readings, lectures and in-class discussions. 
+
+{\color{blue}The essay is due in hard copy at the beginning of class, and no later than 8.15 AM (Central Time Zone) on {\bf April 11}}. Turning it in before the due date is OK, but \emph{not} afterwards. {\bf Late essays will not be accepted}, and will be graded with a $0$. There will \emph{not} be exceptions or extensions. No electronic copies of any kind will be accepted.
+
+I strongly suggest that you begin your essay early, edit multiple drafts, and proofread carefully before turning it in. Grammar, diction, and style all shape the effectiveness of your writing and, as a result, will affect your grade. Consult William Strunk, Jr., and E. B. White, \emph{The Elements of Style}, for helpful hints regarding written expression. 
+
+I encourage you to see me in my office hours \emph{before} the due date. If you want, \href{mailto:\filetext}{send me} your draft via email, and then \href{https://calendly.com/bahamonde/officehours}{make an appointment}. That way I will be able to give you feedback on your work before the due date. If you want to receive comments from me, please allow plenty of time for me to read your draft, and time to meet you. Consider also that your classmates will do the same. Consequently, plan accordingly.
+
+Please, answer the question. That is, (1) do not restate the question, (2) avoid giving an indirect answer. Whatever is beyond the page limit, will not be read/graded. If there is more than one (1) essay, only the first essay will be read/graded.
+
+{\bf Plagiarism will not be tolerated under any circumstances}. The \emph{Oxford English Dictionary} defines plagiarism as ``the practice of taking someone else's work or ideas and passing them off as one's own.'' At least the following practices will be considered plagiarism: (1) intentionally taking someone else's work without using quotation marks, (2) unintentionally failing to use quotation marks (`` '') when taking someone else's work. Your work will be checked for plagiarism. {\bf One unquoted sentence will result in your essay graded with a zero (0)}. Major violations will result in sending the involved student to Tulane's Office of Academic Integrity. It is at my discretion what constitutes a ``major violation.''
+
+\subsection*{Format}
+
+{\bf I want 6-8 pages of \underline{your} ideas}. Essays shorter than 6 pages long will receive a zero (0). Whatever is written beyond the 8th page, will not be read/graded. Include a cover page with the title of your essay and your name. Be creative and give an original title to your essay. Titles of the form ``Comparative Politics Essay'' or ``First Essay Question'' will not be accepted, and will take points off your grade. Also, include a bibliography section. External sources are also welcomed, but they are not required. The cover and the references pages do not count towards the 6-8 pages limit. For instance, if you decide to write the minimum (6 pages), there will be the cover page (adding another page), and the references section (another page), totaling 8 pages. Similarly, if you decide to write the maximum (8 pages), there will be the cover page (adding another page), and the references section (another page), totaling 10 pages.
+
+Personally, I don't like Times New Roman, and honestly, it makes me angry when people make me use it. Consequently, you can use any font you like (including Times New Roman), as long as it is a professional-looking font. What is not up for debate are the following formatting instructions: use 1 inch margins, 12 points font, and 1.5 spacing. Be prepared to send me your Word file. To check that you have followed the formatting instructions, you might be asked to send me your essay file via email. Hence, after printing your essay, do \emph{not} delete the file. 
+
+
+\subsection*{Structure}
+
+A good essay will have a central idea that is directly related to the assigned topic; have a clear organizational plan; develop points with evidence and details in a coherent, logical, and non-repetitive way. Use complete sentences; outlines and lists are not acceptable. Each paragraph should include a clear and precise thesis (1-2 sentences) that directly addresses the question prompt. Usually, the thesis is stated at the very beginning of the paragraph.
+
+The essay should have between 2 to 3 direct quotes from the primary materials of the course. Quotes longer than 3 sentences will not be accepted, and will take points off your grade. Edit lengthy quotes using square brackets ([...]) to remove what is not really necessary to support your argument. For every direct quote, include at least 3-4 additional sentences to analyze and explain how the evidence supports your thesis. Any citation method works (e.g. MLA, APA, Chicago, etc.). Just pick one, and stick to it throughout your essay.
+
+
+\subsection*{Essays}
+
+{\bf Please answer ONE (1) of the following questions.} 
+
+
+
+
+
+
+\begin{enumerate}
+    \item One recurrent topic in comparative politics is the relationship between economic growth and democracy. Interestingly, there are several theories, and lots of conflicting ideas regarding this relationship. (1) Assess the theoretical issues and empirical evidence for debates over the relationship between economic development and democracy. (2) Is economic development a cause or consequence of political democracy? Or both or neither? 
+    %\item Critics of quantitative work in political science have often  complained that social and political variables that are important in  political science simply cannot be accurately measured with  quantitative analysis. (1) How severe a problem do you believe  measurement error is in quantitative political science?  Will measurement error always undermine the validity of statistical research, or only under some conditions, and  if so which ones? Is qualitative work immune to these measurement issues? How so?
+    % \item Scholars working on the field of comparative politics have employed many methods that can be conveniently grouped into 3 approaches: statistical, middle-range comparative, and case studies. Discuss their relative strengths and weaknesses. Illustrate your argument with exemplary works.
+    \item Describe at least two methods discussed in lecture that might foster the probability of survival of autocratic regimes. Analyze each method, making sure you discuss the ``mechanics'' of every method (how they ``work''). Include empirical evidence and examples drawn from the readings. What method do you think is the best one to win the \emph{hearts and minds} of the autocrat's peoples? Both? None?
+\end{enumerate}
+
+
+\end{document}
