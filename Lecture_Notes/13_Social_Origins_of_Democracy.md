@@ -85,5 +85,5 @@ English Revolution
 
 Routes
 - (1) the capitalist democratic route, which engenders parliamentary democracy (alliance: aristocracy & bourgeoisie):  England, France, and the United States.  The urban bourgeoisie emerged as the most economically and politically powerful actor, and the aristocracy either did not oppose its democratizing efforts or it was destroyed by it in a bourgeois revolution
-- (2) the capitalist-reactionary route, which engenders fascist dictatorship; and
+- (2) the capitalist-reactionary route, which engenders fascist dictatorship (Germany and Japan); the bourgeoisie “thr[e]w themselves at the royal bureau- cracy, exchanging the right to rule for the right to make money.”
 - (3) the communist route, which engenders communist dictatorship
