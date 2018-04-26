@@ -180,3 +180,7 @@ TSWLatexianTemp*
 *~[0-9]*
 
 \.DS_Store
+
+Tests/Final/Final\.pdf
+
+Tests/Midterm/Midterm\.pdf

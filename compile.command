@@ -4,7 +4,8 @@
 
 latexmk -pdf -cd /Users/hectorbahamonde/RU/Teaching/Comparative_Politics_UGRAD/Bahamonde_Comparative_Politics_Syllabus_UGRAD.tex
 
-latexmk -pdf -cd /Users/hectorbahamonde/RU/Teaching/Comparative_Politics_UGRAD/Essay.tex
+latexmk -pdf -cd /Users/hectorbahamonde/RU/Teaching/Comparative_Politics_UGRAD/Essay/Essay.tex
 
-latexmk -pdf -cd /Users/hectorbahamonde/RU/Teaching/Comparative_Politics_UGRAD/Midterm.tex
+latexmk -pdf -cd /Users/hectorbahamonde/RU/Teaching/Comparative_Politics_UGRAD/Tests/Midterm.tex
 
+latexmk -pdf -cd /Users/hectorbahamonde/RU/Teaching/Comparative_Politics_UGRAD/Tests/Final.tex
